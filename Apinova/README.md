@@ -25,4 +25,4 @@ Este é um aplicativo em SwiftUI que consome a API do Game of Thrones para exibi
 - Este é um projeto de exemplo e utiliza dados simulados da API do Game of Thrones para exibir informações sobre os personagens.
 - As imagens dos personagens são carregadas de forma assíncrona e podem levar um tempo para serem exibidas, dependendo da velocidade da conexão com a internet.
 
-Divirta-se explorando o mundo de Game of Thrones! 🐉🏰
+Explore o mundo de intrigas e batalhas de Game of Thrones através deste aplicativo! 🐉🏰
