@@ -1,4 +1,4 @@
-# Desafio Aula 8
+# Desafio Harry Potter
 
 Este é um aplicativo em SwiftUI que consome a API do Harry Potter para exibir informações sobre personagens da série.
 
